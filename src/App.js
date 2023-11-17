@@ -39,14 +39,6 @@ export default function App() {
           text="Yahoo"
           url="https://yahoo.com"
         />
-        <Button
-          text="SANS"
-          url="https://sans.org"
-        />
-        <Button
-          text="Ebay UK"
-          url="https://www.ebay.co.uk"
-        />
       </div>
     </div>
   );
