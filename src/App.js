@@ -36,8 +36,12 @@ export default function App() {
           url="https://www.youtube.com"
         />
         <Button
-          text="DigitalOcean Dashboard"
-          url="https://cloud.digitalocean.com/apps"
+          text="Yahoo"
+          url="https://yahoo.com"
+        />
+        <Button
+          text="SANS"
+          url="https://sans.org"
         />
       </div>
     </div>
