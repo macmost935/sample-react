@@ -31,8 +31,9 @@ export default function App() {
 
       <div className="grid grid-cols-2 grid-rows-2 gap-4">
         <Button
-          text="DigitalOcean Docs"
-          url="https://www.digitalocean.com/docs/app-platform"
+          NI
+          text="YouTube"
+          url="https://www.youtube.com"
         />
         <Button
           text="DigitalOcean Dashboard"
