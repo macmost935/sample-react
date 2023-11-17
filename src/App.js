@@ -32,8 +32,8 @@ export default function App() {
       <div className="grid grid-cols-2 grid-rows-2 gap-4">
         <Button
           NI
-          text="YouTube"
-          url="https://www.youtube.com"
+          text="Moyo Yavo Yakaoma Zviri Nani Ndigare Kure Nehama"
+          url="https://www.youtube.com/watch?v=5lvB3FCtxsk&list=TLPQMTExMTIwMjNdv9UAw3ysGA&index=3"
         />
         <Button
           text="Yahoo"
